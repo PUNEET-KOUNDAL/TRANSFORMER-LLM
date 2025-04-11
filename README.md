@@ -32,7 +32,7 @@ cd Transformer-LLM
 
 Execute the script to train or test the Transformer: (right now it have error , but solve soon )
 
-#python train.py  # Example script for training ( error right now )
+# # Example script for training ( error right now )
 
 3. Example Input & Output
 
@@ -45,9 +45,9 @@ Project Structure
 
 Transformer-LLM/
 
-│── transfomer.py          # model
+│── transfomer.ipynb   # (error right now )         # model
 
-│── dataset.py        # Dataset preprocessing (to be implemente later )
+│── 
 
 │── notebook.ipynb          # Helper functions (to be implement later )
 
