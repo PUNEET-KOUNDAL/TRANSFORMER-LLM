@@ -44,10 +44,15 @@ print(output.shape)  # Expected shape: (batch_size, seq_length, target_vocab_siz
 Project Structure
 
 Transformer-LLM/
-│── transfomer.py          # model 
+
+│── transfomer.py          # model
+
 │── dataset.py        # Dataset preprocessing (to be implemente later )
+
 │── notebook.ipynb          # Helper functions (to be implement later )
+
 │── requirements.txt  # Required dependencies
+
 │── README.md         # Project documentation
 
 References
